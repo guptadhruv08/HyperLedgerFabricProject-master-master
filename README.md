@@ -61,7 +61,10 @@ npm i
 npm start
 ```
 ## Author
-- [@Tarandeep100](https://github.com/Tarandeep100/)
+- Harman Singh
+- Nischay Chib
+- Dhruv gupta
+- Vishal Pawar
 
 ## Architecture
 
